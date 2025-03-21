@@ -13,4 +13,4 @@ A modified version of the new context and menu icons with global coverage for Ze
 Restart your browser to enjoy!
 
 ---
-This project is based on the [firefox-plus]([链接地址](https://github.com/amnweb/firefox-plus)) , I did a little bit of improvement work.Thanks your like.:)
+This project is based on the [firefox-plus](https://github.com/amnweb/firefox-plus) , I did a little bit of improvement work.Thanks your like.:)
