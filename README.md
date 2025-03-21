@@ -7,6 +7,9 @@ A modified version of the new context and menu icons with global coverage for Ze
 
 ---
 #How to use?
-
+####1.Make sure `toolkit.legacyUserProfileCustomizations.stylesheets`under`about:config` is enabled
+####2.Create a `chrome` folder under the Configuration folder and drag the `icon` folder into it
+####3.Create `zen-themes.css` file，write in`@import url("icons/icons.css");`
+Restart your browser to enjoy!
 
 
