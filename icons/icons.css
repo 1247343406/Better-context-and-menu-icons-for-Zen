@@ -109,10 +109,7 @@
 	list-style-image: url("close.svg") !important;
 }
 
-.tab-close-button:not([pinned]) {
-	display: inline-flex !important;
-	list-style-image: url("close-9px.svg") !important;
-}
+
 
 #sidebar-button {
 	list-style-image: url("sidebars-right.svg") !important;
