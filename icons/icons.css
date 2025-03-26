@@ -1118,3 +1118,9 @@ menuitem[id="placesContext_new:separator"] {
 			var(--fp-contextmenu-menuicon-margin-inline)
 	) !important;
 }
+
+/* Special icon for Zen*/
+#zen-toolbar-context-tabs-right{
+	--menu-image: url("zen-toolbar-context-tabs-right.svg");
+}
+
