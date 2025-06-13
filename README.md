@@ -5,6 +5,7 @@
     </a>
 </div>
 <h2 align="center">A modified version of the new context and menu icons with global coverage for Zen.</h2>
+
 # 🚀 Announcement:
 
 Since the context menu icon was officially removed from the Zen browser in version 1.12.8, this repository has no longer been updated. All the content has been transferred to another mod to assist you in retrieving the context menu icon!
