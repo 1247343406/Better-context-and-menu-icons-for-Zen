@@ -25,4 +25,4 @@ Go to[context-menu-icons-for-Zen](https://github.com/1247343406/context-menu-ico
 Restart your browser to enjoy!
 
 ---
-This project is based on the [firefox-plus](https://github.com/amnweb/firefox-plus) , I did a little bit of improvement work to cover all the ICONS of Zen.Thanks your like.:)
+
